@@ -1,5 +1,7 @@
 # live-chat
 
+[Link](https://vue-kursus.web.app/)
+
 ## Project setup
 ```
 npm install
